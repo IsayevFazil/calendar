@@ -16,13 +16,7 @@ $arJsConfig = array(
         "js"  => $templateFolder . "/js/jquery.fancybox.min.js",
         "css" => $templateFolder . "/css/jquery.fancybox.min.css",
     ),
-    "player" => array(
-        "js"  => $templateFolder . "/js/player.js",
-        "css" => $templateFolder . "/css/progres-bar.css",
-    ),
-    "UniversalLibs" => array(
-        "rel" => array("jquery3", "bootstrap", "fancybox", "player")
-    )
+
 );
 
 
